@@ -1,0 +1,1 @@
+# Ad-hoc_Insights_for_Consumer_Goods
