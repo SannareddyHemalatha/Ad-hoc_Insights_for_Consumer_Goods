@@ -1,7 +1,5 @@
 # Ad-Hoc-Insights
 
-![Consumer Goods SQL Project (1)]()
-
 Domain : Consumer Goods
 
 Function : Excecutive Management
